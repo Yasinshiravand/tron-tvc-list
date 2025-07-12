@@ -1,6 +1,6 @@
 [
   {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
+    "address": "TW63guytLiXrGUGKrVgduoHRXaubaUn3T",
     "symbol": "Huobi 2nd Space",
     "name": "Huobi 2nd Space Club",
     "decimals": 6,
@@ -25,9 +25,9 @@
     "homepage": "https://github.com/Yasinshiravand/usdt-oracle-token",
     "existingMarkets": [
       {
-        "source": "Binance",
+        "source": "ApeNFT",
         "pairs": [
-          "USDT/USDT"
+          "USDT/TRX"
         ]
       }
     ]
