@@ -25,9 +25,9 @@
     "homepage": "https://github.com/Yasinshiravand/usdt-oracle-token",
     "existingMarkets": [
       {
-        "source": "Binance",
+        "source": "ApeNFT",
         "pairs": [
-          "USDT/USDT"
+          "USDT/TRX"
         ]
       }
     ]
